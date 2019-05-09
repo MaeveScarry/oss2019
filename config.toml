@@ -32,12 +32,12 @@ paginate = 10
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
 #    weight = 2
 #    url = "/outcomes/"
-#[[menu.main]]
-#    name = "Photo Gallery"
-#    identifier = "PhotoGallery"
-#    pre = "<i class='fa fa-road'></i>&nbsp;"
-#    weight = 3
-#    url = "/photo-gallery/"
+[[menu.main]]
+    name = "Photo Gallery"
+    identifier = "PhotoGallery"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 8
+    url = "/photo-gallery/"
 #[[menu.main]]
 #    name = "Sessions"
 #    identifier = "sessions"
@@ -116,7 +116,7 @@ paginate = 10
     name = "About"
     identifier = "about"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 8
+    weight = 10
     url = "/about/"
 [[menu.main]]
     name = "The Summit"
